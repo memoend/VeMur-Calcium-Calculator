@@ -81,6 +81,9 @@ Copyright © 2026 **Mehmet Erşen**. All Rights Reserved.
 
 VeMur Calcium Calculator is distributed under the **VeMur Calcium Calculator Research Use License v1.0**.
 
+- [LICENSE.txt](LICENSE.txt)
+- [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt)
+
 ## Citation
 
-Citation metadata will be provided with the public release package.
+Citation metadata are available in [CITATION.cff](CITATION.cff).
