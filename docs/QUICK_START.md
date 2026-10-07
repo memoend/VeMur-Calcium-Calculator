@@ -24,6 +24,8 @@ The suggestion helps with series selection; the user remains responsible for cho
 
 Factors considered include slice thickness, slice increment, reconstruction kernel, kVp, series description, and whether the series can be routed to an accepted measurement matrix.
 
+![Series selection](images/02-series-selection.jpg)
+
 ## 3. Why the first series load may take longer
 
 Opening the selected series starts the quantitative processing pipeline. VeMur may need to:
@@ -40,6 +42,8 @@ Opening the selected series starts the quantitative processing pipeline. VeMur m
 
 For this reason, a thin-section series with many images can take longer to open than ordinary image viewing.
 
+![Processing pipeline](images/03-processing.jpg)
+
 ## 4. Review calcium candidates
 
 The **Calcium candidates** toolbar controls which overlays are displayed:
@@ -50,6 +54,8 @@ The **Calcium candidates** toolbar controls which overlays are displayed:
 - **None** — hides candidate overlays.
 
 Automatic candidates are not the final score.
+
+![Main workstation](images/04-workstation.jpg)
 
 ## 5. Assign coronary vessels
 
@@ -141,6 +147,8 @@ A conventional accepted native acquisition may be shown as **Agatston**.
 When correction or equivalent-routing paths are active, the report can use an Agatston-equivalent identity. In the current interface, when both kernel and slice-thickness correction are active, the report may display:
 
 **Agatston-KT — Kernel and Slice Thickness Corrected Agatston Equivalent**
+
+![Calcium score report](images/05-report.jpg)
 
 ## 10. Export results
 
