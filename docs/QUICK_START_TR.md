@@ -24,6 +24,8 @@ Bu öneri seri seçimine yardımcı olur; doğru kontrastsız BT serisinin seçi
 
 Değerlendirilen başlıca özellikler kesit kalınlığı, kesit aralığı, rekonstrüksiyon kerneli, kVp, seri açıklaması ve serinin kabul edilen bir ölçüm matrisine yönlendirilebilir olup olmadığıdır.
 
+![Seri seçimi](images/02-series-selection.jpg)
+
 ## 3. İlk açılış neden biraz uzun sürebilir?
 
 Seriyi açmak nicel işleme zincirini başlatır. VeMur gerekirse:
@@ -40,6 +42,8 @@ Seriyi açmak nicel işleme zincirini başlatır. VeMur gerekirse:
 
 Bu nedenle özellikle çok sayıda ince kesit içeren bir serinin ilk açılışı normal görüntü izlemeye göre daha uzun sürebilir.
 
+![İşleme basamakları](images/03-processing.jpg)
+
 ## 4. Kalsiyum adaylarını inceleme
 
 Üst araç çubuğundaki **Calcium candidates** bölümü hangi overlay'lerin gösterileceğini belirler:
@@ -50,6 +54,8 @@ Bu nedenle özellikle çok sayıda ince kesit içeren bir serinin ilk açılış
 - **None** — aday overlay'lerini gizler.
 
 Otomatik adaylar tek başına nihai skor değildir.
+
+![Ana çalışma ekranı](images/04-workstation.jpg)
 
 ## 5. Koroner damar atama
 
@@ -141,6 +147,8 @@ Uygun klasik native çekim **Agatston** olarak gösterilebilir.
 Düzeltme veya eşdeğer yönlendirme kullanıldığında raporda Agatston-eşdeğer skor kimliği görülebilir. Kernel ve kesit kalınlığı düzeltmesinin birlikte uygulandığı mevcut arayüzde örneğin:
 
 **Agatston-KT — Kernel and Slice Thickness Corrected Agatston Equivalent**
+
+![Kalsiyum skor raporu](images/05-report.jpg)
 
 ifadesi gösterilebilir.
 
