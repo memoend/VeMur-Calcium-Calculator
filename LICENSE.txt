@@ -1,0 +1,104 @@
+VeMur Calcium Calculator Research Use License v1.0
+
+Copyright © 2026 Mehmet Erşen.
+All Rights Reserved.
+
+1. GRANT OF PERMISSION
+
+Subject to the terms of this License, permission is granted to download,
+install, and use VeMur Calcium Calculator ("the Software") free of charge
+solely for non-commercial scientific research, academic work, education,
+personal study, technical evaluation, and validation.
+
+The Software may be used to generate measurements, analyses, figures, and
+research results for scientific publications and presentations, provided
+that such use complies with this License and applicable ethical, legal, and
+institutional requirements.
+
+2. RESEARCH USE ONLY
+
+The Software is provided for research and evaluation purposes only.
+
+The Software is not intended to be used as a medical device and must not be
+used as the sole basis for clinical diagnosis, patient management, treatment
+decisions, or other clinical decision-making.
+
+Any output produced by the Software requires appropriate expert review and
+must be interpreted in the context of the underlying source images and
+relevant clinical or research information.
+
+3. RESTRICTIONS
+
+Except with prior written permission from the copyright holder, you may not:
+
+- sell, sublicense, rent, lease, or commercially distribute the Software;
+- commercially exploit the Software or provide it as part of a paid service;
+- redistribute the Software, modified or unmodified, through unauthorized
+  distribution channels;
+- modify, adapt, or create derivative versions of the proprietary VeMur
+  components for redistribution;
+- remove or alter copyright, attribution, licensing, research-use, or
+  third-party notices;
+- use the VeMur name, VeMur Calc name, logo, or associated branding in a
+  manner that implies endorsement, affiliation, or authorization.
+
+Nothing in this License restricts rights that must be permitted under
+applicable law.
+
+4. OFFICIAL DISTRIBUTION
+
+Users may link to an official distribution location made available by the
+copyright holder.
+
+Redistribution of the original application package itself requires prior
+written permission from the copyright holder unless explicitly authorized
+through an official VeMur distribution channel.
+
+5. THIRD-PARTY COMPONENTS
+
+The Software may include or interact with third-party software, libraries,
+models, code, or other components.
+
+Those components remain subject to their own copyright notices and license
+terms. This License does not replace, restrict, or supersede rights granted
+under applicable third-party licenses.
+
+Relevant third-party notices and licenses distributed with the Software form
+part of the accompanying licensing information.
+
+6. OWNERSHIP
+
+The Software and the original VeMur components, documentation, visual identity,
+logo, and associated materials are protected by applicable intellectual
+property laws.
+
+Except for the limited permission expressly granted by this License, no
+ownership rights are transferred.
+
+All rights not expressly granted are reserved by Mehmet Erşen.
+
+7. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, ACCURACY, RELIABILITY, NON-INFRINGEMENT, OR FITNESS
+FOR CLINICAL USE.
+
+8. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL
+NOT BE LIABLE FOR ANY CLAIM, LOSS, DAMAGE, LIABILITY, OR OTHER CONSEQUENCE
+ARISING FROM OR RELATED TO THE INSTALLATION, USE, INTERPRETATION, OR INABILITY
+TO USE THE SOFTWARE OR ITS OUTPUTS.
+
+9. TERMINATION
+
+The permissions granted under this License terminate automatically if its
+terms are materially violated. Upon termination, use and unauthorized
+distribution of the proprietary VeMur components must cease.
+
+10. ENTIRE PERMISSION
+
+No rights are granted except those expressly stated in this License.
+
+All other rights are reserved.
