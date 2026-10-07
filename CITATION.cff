@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use VeMur Calcium Calculator in your research, please cite the software."
+title: "VeMur Calcium Calculator"
+type: software
+authors:
+  - given-names: "Mehmet"
+    family-names: "Erşen"
+version: 1.0.0
