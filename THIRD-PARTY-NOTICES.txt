@@ -1,0 +1,26 @@
+VeMur Calcium Calculator 1.0.0
+Third-Party Software Notice Index
+
+VeMur Calcium Calculator includes or interacts with third-party software,
+libraries, codecs, runtimes, and models. Those components retain their own
+copyrights and remain subject to their respective license terms. The VeMur
+Calcium Calculator Research Use License v1.0 applies only to proprietary VeMur
+components, and only to the extent permitted by applicable third-party
+licenses.
+
+The Windows Standard distribution includes a CPython runtime and pinned
+third-party Python packages used by the application. License metadata and
+notices distributed with those packages remain authoritative for those
+components and must not be removed.
+
+DETAILED / SEGMENT-CACS
+
+The optional DETAILED workflow uses the third-party SEGMENT-CACS component.
+SEGMENT-CACS remains governed by its own copyright and license terms. Its
+original notice and license files are distributed with the relevant runtime
+and are not replaced by the VeMur Research Use License.
+
+NO SUPERSESSION
+
+Nothing in the VeMur Calcium Calculator Research Use License v1.0 supersedes
+rights or obligations arising under an applicable third-party license.
