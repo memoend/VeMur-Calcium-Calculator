@@ -9,9 +9,17 @@ It is designed for heterogeneous non-contrast CT data rather than only dedicated
 
 ## Current public release
 
-The Windows Standard v1.0.0 package is being finalized and will be published on the **Releases** page after final package validation.
+**VeMur Calcium Calculator v1.0.0 — Windows Standard / Light** is now available.
 
-No installer or ZIP is published in this repository yet.
+- [Download Windows x64 ZIP](https://github.com/memoend/VeMur-Calcium-Calculator/releases/download/v1.0.0/VeMur-Calcium-Calculator-1.0.0-windows-x64-standard-light.zip)
+- [SHA-256 checksum file](https://github.com/memoend/VeMur-Calcium-Calculator/releases/download/v1.0.0/VeMur-Calcium-Calculator-1.0.0-windows-x64-standard-light.zip.sha256)
+- [View release notes](https://github.com/memoend/VeMur-Calcium-Calculator/releases/tag/v1.0.0)
+
+**SHA-256**
+
+`7bfca9c261fd8a959eedd484d3115427419502be82217fce16853633e4b9c1bc`
+
+Extract the entire ZIP before launching `VeMur-Calcium-Calculator.exe`. No separate Python installation is required.
 
 ## Highlights
 
